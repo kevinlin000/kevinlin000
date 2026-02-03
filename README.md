@@ -6,7 +6,7 @@
 
 ###  About Me
 **Aspiring Backend Engineer | Data Engineering Background**
-(準後端工程師 | 具備資料工程實戰經驗)
+(尋求後端工程師機會 | 具備資料工程實戰經驗)
 
 I have a background in **Finance & Law**, which trained me to prioritize rigorous logic and business efficiency. After independently building high-throughput data pipelines with **Python** on GCP, I discovered my passion for system architecture.
 
