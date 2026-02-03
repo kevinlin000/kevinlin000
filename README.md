@@ -4,26 +4,7 @@
 [![GCP](https://img.shields.io/badge/Cloud-GCP%20Architecture-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/kevinlin000)
 [![Data](https://img.shields.io/badge/Background-Data%20Engineering-darkgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kevinlin000)
 
-### 👨‍💻 About Me
-
-```java
-public class KevinLin extends BackendEngineer {
-    private final String background = "Finance & Law";
-    private final String currentFocus = "Java Enterprise Architecture";
-
-    public void getCurrentGoal() {
-        // Leveraging data engineering experience to build robust backend systems
-        System.out.println("Transitioning from Python Data Pipelines to Spring Boot.");
-    }
-
-    public String[] getCoreSkills() {
-        return new String[] {
-            "Java Spring Boot", "GCP Infrastructure", "Docker/Containerization", "Database Design"
-        };
-    }
-}
-
-```
+###  About Me
 **Aspiring Backend Engineer | Data Engineering Background**
 (準後端工程師 | 具備資料工程實戰經驗)
 
