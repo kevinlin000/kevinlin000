@@ -51,7 +51,7 @@ Currently, I am leveraging these engineering principles—such as Containerizati
 ## Technical Skills
 
 * **Current Focus:** Java (Spring Boot), RESTful APIs, OOP Principles
-* **Proficient In:** Python, Apache Airflow, ETL Pipelines, Scrapy
+* **Proficient In:** Python(Numpy, Pandas), Apache Airflow, ETL Pipelines, Kafka, Hive 
 * **Infrastructure:** GCP (Compute Engine), Docker, Docker Compose, Linux, Git
 * **Data Science:** PyTorch (LSTM), Pandas, Statistical Analysis
 
