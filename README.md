@@ -174,10 +174,14 @@ AWS（EC2 / S3 / CloudFront）・GCP・Nginx 反向代理・GitHub Actions CI/CD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinlin000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlin000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=kevinlin000&theme=tokyonight&hide_border=true" height="165" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
+
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+<img src="https://streak-stats.demolab.com?user=kevinlin000&theme=tokyonight&hide_border=true" width="42%" />
 
 </div>
 
