@@ -37,6 +37,23 @@
 
 <br/>
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
+
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+<img src="https://streak-stats.demolab.com?user=kevinlin000&theme=tokyonight&hide_border=true" width="42%" />
+
+</div>
+
+<br/>
+
 ## 🎬 Live Demos
 
 | 專案 | Demo | 說明 |
@@ -46,6 +63,58 @@
 | 🏭 **FactoryOps** | [factoryops-tau.vercel.app](https://factoryops-tau.vercel.app) | 設備維修管理系統 CMMS + 企業內部 RAG |
 | 🚲 **YouBike 2.0** | [Streamlit App](https://youbike-etl-pipeline-8dyh8p6fb3m5kxkpwlhezb.streamlit.app/)｜[Tableau](https://public.tableau.com/app/profile/.40927878/viz/YouBike_17669139069900/1) | 站點風險預測與調度工作台 |
 | 🌅 **敘日** | [前端展示](https://restaurant-xuri-frontend.vercel.app) | 餐廳管理系統（5 人團隊，任組長） |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,fastapi&perline=8" />
+
+![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot%203.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security%20(JWT)-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+第三方整合：LINE（Login / Messaging）・綠界 ECPay / TapPay・Google OAuth / Maps
+
+### Databases & Middleware
+<img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,mongodb,sqlite&perline=8" />
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server%202025-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redisson](https://img.shields.io/badge/Redisson%20分散式鎖-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant%20%2F%20pgvector-DC244C?style=flat-square)
+
+### AI & Data Engineering
+![LLM](https://img.shields.io/badge/LLM%20Agent%20%2F%20RAG%20%2F%20SSE-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white)
+![Evals](https://img.shields.io/badge/版本化評測集%20in%20CI-4B0082?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama%20%2F%20Hugging%20Face-000000?style=flat-square&logo=ollama&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas%20%2F%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
+
+開發流程：Harness Engineering・Spec-Driven Development・CLAUDE.md / AGENTS.md（Claude Code, Codex）
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=vue,ts,pinia,react,nextjs,html,css,js&perline=8" />
+
+Vue 3 完整專案實作（用戶端＋管理後台）・Pinia・Element Plus・HTTP / REST / CORS / JWT
+
+### Infrastructure & Deployment
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,git,githubactions&perline=8" />
+
+AWS（EC2 / S3 / CloudFront）・GCP・Nginx 反向代理・GitHub Actions CI/CD・Docker Compose
+
+</div>
 
 <br/>
 
@@ -118,74 +187,6 @@
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,fastapi&perline=8" />
-
-![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot%203.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security%20(JWT)-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-第三方整合：LINE（Login / Messaging）・綠界 ECPay / TapPay・Google OAuth / Maps
-
-### Databases & Middleware
-<img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,mongodb,sqlite&perline=8" />
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server%202025-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redisson](https://img.shields.io/badge/Redisson%20分散式鎖-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant%20%2F%20pgvector-DC244C?style=flat-square)
-
-### AI & Data Engineering
-![LLM](https://img.shields.io/badge/LLM%20Agent%20%2F%20RAG%20%2F%20SSE-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white)
-![Evals](https://img.shields.io/badge/版本化評測集%20in%20CI-4B0082?style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama%20%2F%20Hugging%20Face-000000?style=flat-square&logo=ollama&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas%20%2F%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
-
-開發流程：Harness Engineering・Spec-Driven Development・CLAUDE.md / AGENTS.md（Claude Code, Codex）
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=vue,ts,pinia,react,nextjs,html,css,js&perline=8" />
-
-Vue 3 完整專案實作（用戶端＋管理後台）・Pinia・Element Plus・HTTP / REST / CORS / JWT
-
-### Infrastructure & Deployment
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,git,githubactions&perline=8" />
-
-AWS（EC2 / S3 / CloudFront）・GCP・Nginx 反向代理・GitHub Actions CI/CD・Docker Compose
-
-</div>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
-
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-<img src="https://streak-stats.demolab.com?user=kevinlin000&theme=tokyonight&hide_border=true" width="42%" />
-
-</div>
-
-<br/>
 
 ## 📫 Connect
 
