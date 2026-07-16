@@ -25,6 +25,14 @@
 - 🎓 金融與法律背景轉職工程 — 邏輯嚴謹、重視業務效率；CS 基礎課程兩學期平均 **94 分**
 - 🎯 現正尋找後端 / AI 應用工程師機會
 
+<div align="center">
+
+<a href="https://github.com/kevinlin000">
+  <img src="https://ghchart.rshah.org/36d1dc/kevinlin000" alt="kevinlin000's contribution graph" width="100%"/>
+</a>
+
+</div>
+
 <br/>
 
 ## 🎬 Live Demos
@@ -108,26 +116,6 @@
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/kevinlin000/ai-enhanced-local-services">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinlin000&repo=ai-enhanced-local-services&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/kevinlin000/local-fresh-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinlin000&repo=local-fresh-platform&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/kevinlin000/FactoryOps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinlin000&repo=FactoryOps&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/kevinlin000/YouBike-ETL-Pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinlin000&repo=YouBike-ETL-Pipeline&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -188,12 +176,6 @@ AWS（EC2 / S3 / CloudFront）・GCP・Nginx 反向代理・GitHub Actions CI/CD
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlin000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=kevinlin000&theme=tokyonight&hide_border=true" height="165" />
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinlin000&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</a>
 
 </div>
 
