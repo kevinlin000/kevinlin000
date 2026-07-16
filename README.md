@@ -27,9 +27,11 @@
 
 <div align="center">
 
-<a href="https://github.com/kevinlin000">
-  <img src="https://ghchart.rshah.org/36d1dc/kevinlin000" alt="kevinlin000's contribution graph" width="100%"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinlin000/kevinlin000/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinlin000/kevinlin000/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kevinlin000/kevinlin000/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
