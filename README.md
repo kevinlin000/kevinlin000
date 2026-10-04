@@ -54,15 +54,17 @@
 
 <br/>
 
-## 🎬 Live Demos
+## 🎬 Demos
 
-| 專案 | Demo | 說明 |
+| 專案 | 看這裡 | 說明 |
 |---|---|---|
-| 🍽️ **ByteBites** | [bytebites-kevin.duckdns.org](https://bytebites-kevin.duckdns.org) | AI Agent 餐廳訂位營運平台（Web + LINE） |
-| 🥬 **菜籃日** | [用戶端](https://d3hqnux25iirgl.cloudfront.net)｜[管理端](https://d3czahyk4cnvb9.cloudfront.net) | 揪團生鮮電商平台（高併發搶團） |
 | 🏭 **FactoryOps** | [factoryops-tau.vercel.app](https://factoryops-tau.vercel.app) | 設備維修管理系統 CMMS + 企業內部 RAG |
 | 🚲 **YouBike 2.0** | [Streamlit App](https://youbike-etl-pipeline-8dyh8p6fb3m5kxkpwlhezb.streamlit.app/)｜[Tableau](https://public.tableau.com/app/profile/.40927878/viz/YouBike_17669139069900/1) | 站點風險預測與調度工作台 |
 | 🌅 **敘日** | [前端展示](https://restaurant-xuri-frontend.vercel.app) | 餐廳管理系統（5 人團隊，任組長） |
+| 🍽️ **ByteBites** | [展示影片](https://youtu.be/ttxynxWrPvk)｜[截圖與說明](https://github.com/kevinlin000/ai-enhanced-local-services#畫面截圖) | AI Agent 餐廳訂位營運平台（Web + LINE） |
+| 🥬 **菜籃日** | [截圖與說明](https://github.com/kevinlin000/local-fresh-platform#demo-流程截圖) | 揪團生鮮電商平台（高併發搶團） |
+
+> ByteBites 與菜籃日曾部署在 AWS，2026-10 為控制成本下線；程式碼、部署 runbook 與操作錄影都在各自的 repo。
 
 <br/>
 
@@ -122,7 +124,7 @@ AWS（EC2 / S3 / CloudFront）・GCP・Nginx 反向代理・GitHub Actions CI/CD
 
 ### 🍽️ ByteBites｜AI Agent 餐廳訂位營運平台
 **個人開發** | `Java 17` `Spring Boot` `FastAPI` `Gemini Function Calling` `Qdrant` `MySQL` `Redis` `RabbitMQ` `AWS`
-[Repo](https://github.com/kevinlin000/ai-enhanced-local-services) ｜ [Demo](https://bytebites-kevin.duckdns.org)
+[Repo](https://github.com/kevinlin000/ai-enhanced-local-services) ｜ [展示影片](https://youtu.be/ttxynxWrPvk) ｜ [截圖](https://github.com/kevinlin000/ai-enhanced-local-services#畫面截圖)
 
 > 自然語言需求 → 餐廳推薦 → 訂位草稿 → 使用者確認 → 訂金付款。AI 只負責理解與建立草稿，正式訂位、金額與付款狀態由 Java 後端狀態機控管，高風險操作必經使用者確認。
 
@@ -134,7 +136,7 @@ AWS（EC2 / S3 / CloudFront）・GCP・Nginx 反向代理・GitHub Actions CI/CD
 
 ### 🥬 菜籃日｜揪團生鮮電商平台
 **個人獨立開發** | `Java 17` `Spring Boot` `MyBatis` `MySQL` `Redis (Redisson)` `Vue 3` `ECPay` `AWS CloudFront`
-[Repo](https://github.com/kevinlin000/local-fresh-platform) ｜ [用戶端 Demo](https://d3hqnux25iirgl.cloudfront.net) ｜ [管理端 Demo](https://d3czahyk4cnvb9.cloudfront.net)
+[Repo](https://github.com/kevinlin000/local-fresh-platform) ｜ [截圖](https://github.com/kevinlin000/local-fresh-platform#demo-流程截圖)
 
 > 核心問題：揪團高併發 — 多人同時加團不能超過成團人數、同一會員不能重複加入。
 
